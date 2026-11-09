@@ -2,6 +2,8 @@
 
 > Real-time human detection, multi-object tracking, and density heatmap generation — powered by YOLOv11 and ByteTrack.
 
+![Human Heatmap Tracking Pipeline](HumanHeatmapTrackingPipeline.png)
+
 ---
 
 ## Overview
